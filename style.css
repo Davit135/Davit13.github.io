@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: grey;
+}
+.display {
+    height: 65px;
+    background: white;
+    box-shadow: 0 0px 7px black;
+}
+.display img.img {
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.display input {
+    height: 33px;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 7px;
+    border-radius: 20px;
+    font-family: cursive;
+}
+.display img.imgg {
+    margin-left: 5%;
+    transition: .3s;
+}
+.display img.imgg:hover {
+    cursor: pointer;
+}
+.display img.imggg {
+    margin-left: 7%;
+    transition: .3s;
+}
+.display img.imggg:hover {
+    cursor: pointer;
+}
+.display img.im {
+    margin-left: 7%;
+    transition: .3s;
+}
+.display img.im:hover {
+    cursor: pointer;
+}
+.display img.tmy {
+    margin-left: 7%;
+    transition: .3s;
+}
+.display img.tmy:hover {
+    cursor: pointer;
+}
+.display img.ksb {
+    margin-left: 5%;
+    transition: .3s;
+}
+.display img.ksb:hover {
+    cursor: pointer;
+}
+.name {
+    width: 260px;
+    height: 500px;
+    margin-top: 20px; 
+    margin-left: 10px;
+}
+.name p {  
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    text-decoration: none;
+}
+.name p.n1,
+.name p.n2,
+.name p.n3,
+.name p.n4,
+.name p.n5,
+.name p.n6,
+.name p.n7,
+.name p.n8,
+.name p.n9,
+.name p.n10,
+.name p.n11, 
+.name p.n12 {
+    height: 35px;
+    background: grey;
+    transition: .3s;
+    border-radius: 5px;
+}
+.name p.n1:hover,
+.name p.n2:hover,
+.name p.n3:hover,
+.name p.n4:hover,
+.name p.n5:hover,
+.name p.n6:hover,
+.name p.n7:hover,
+.name p.n8:hover,
+.name p.n9:hover,
+.name p.n10:hover,
+.name p.n11:hover, 
+.name p.n12:hover {
+    cursor: pointer;
+    right: 5px;
+    background: darkgray;
+}
+.bigest {
+    text-align: right;
+    vertical-align: top;
+    margin-right: 13%;
+    margin-top: -35%;
+    font-size: 20px;
+}
+.bigest:hover {
+    cursor: pointer;
+}
+.goldd {
+    margin-top: 3%;
+    margin-right: -5%;
+    border-radius: 10px;
+    display: inline-block;
+}
+.goldd:hover {
+    cursor: pointer;
+}
+.good {
+    margin-top: 2%;
+    margin-right: -5%;
+    border-radius: 10px;
+    display: inline-block;
+}
+.good:hover {
+    cursor: pointer;
+}
+.center {
+    width: 500px;
+    height: 300px;
+    background: white;
+    box-shadow: 0 0px 7px black;
+    margin-left: 29%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+.soon {
+    margin-left: 15%; 
+    margin-top: 3%;
+}
+.soon:hover {
+    cursor: pointer;
+}
+.soonn {
+    margin-left: 45%; 
+    margin-top: 3%;
+}
+.soonn:hover {
+    cursor: pointer;
+}
+.soonnn{
+    margin-top: 3%;
+    margin-left: 5%;
+    border-radius: 5%;
+    vertical-align: top;
+    margin-bottom: 0;
+}
+.soonnn:hover {
+    cursor: pointer;
+}
+.seen {
+    display: inline-block;
+    margin-left: 5%;
+    color: black;
+    font-size: 20px;
+    margin-top: -30%;
+    margin-bottom: 0;
+}
+.seen:hover {
+    cursor: pointer;
+}
+.son{
+    margin-left: 1%;
+    border-radius: 5%;
+}
+.son:hover {
+    cursor: pointer;
+}     
+.soo {
+    margin-left: 1%;
+    margin-top: 3%;
+    border-radius: 5%;
+}
+.soo:hover {
+    cursor: pointer;
+}
+.soohover {
+    cursor: pointer;
+}
+.smole {
+    width: 500px;
+    height: 100px;
+    background: white;
+    margin-left: 29%;
+    margin-top: 1.5%;
+    border-radius: 10px;
+    box-shadow: 0 0 7px black;
+}
+.solest {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    z-index: 0
+}
+.solest {
+    cursor: pointer;
+}
+.eee {
+    width: 300px;
+    height: 30px;
+    background: darkgray;
+    border-radius: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 5%;
+    margin-left: 5%;
+    transition: .3s;
+    vertical-align: top;
+    display: inline-block;
+}
+.eee:hover {
+    background: grey;
+    cursor: pointer;
+}
+.ee {
+    width: 160px;
+    height: 30px;
+    transition: .3s;
+    border-radius: 10px;
+    margin-left: 2%;
+    text-align: center;
+    display: inline-block;
+}
+.ee:hover {
+    cursor: pointer;
+    background: darkgray;
+}
+.e {
+    width: 160px;
+    height: 30px;
+    transition: .3s;
+    border-radius: 10px;
+    margin-left: 30%;
+    text-align: center;
+    margin-top: -6%;
+
+}
+.e:hover {
+    cursor: pointer;
+    background: darkgray;
+}
+.eeee {
+    width: 160px;
+    height: 30px;
+    transition: .3s;
+    border-radius: 10px;
+    margin-left: 60%;
+    text-align: center;
+    margin-top: -6%;
+
+}
+.eeee:hover {
+    cursor: pointer;
+    background: darkgray;
+}
+
+
+
+
+
+
+
+
